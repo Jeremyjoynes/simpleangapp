@@ -15,7 +15,7 @@ namespace Lesson.Home {
 
         public cats = [
             { name: 'Show me the money', image: 'img/4AiXzf8.jpg' },
-            { name: 'prowler', image: 'img/CmNKl.jpg' },
+            { name: 'Prowler', image: 'img/CmNKl.jpg' },
             { name: 'Bat cat', image: 'img/cojcul7.jpg' }
         ];
 
