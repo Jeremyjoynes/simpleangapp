@@ -11,7 +11,7 @@ namespace Lesson.Home {
             { name: 'Bones', image: 'img/dog2.jpg' },
             { name: 'Lil vampire', image: 'img/dog3.jpg' }
         ]; // end array of objects dogs
-        debugger;
+
 
         public cats = [
             { name: 'Show me the money', image: 'img/4AiXzf8.jpg' },
